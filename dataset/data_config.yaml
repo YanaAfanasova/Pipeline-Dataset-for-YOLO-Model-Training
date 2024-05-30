@@ -1,0 +1,7 @@
+colors:
+- [203, 7, 242]
+- [236, 101, 180]
+names: [pipeline, pipeline_1]
+nc: 2
+train: ../301903_Pipeline/images/train
+val: ../301903_Pipeline/images/val
